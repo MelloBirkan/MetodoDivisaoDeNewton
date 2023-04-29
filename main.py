@@ -1,4 +1,4 @@
-# Função para calcular os coeficientes do polinômio de Newton usando diferenças divididas
+# Função para calcular os coeficientes do polinômio de Newton usando diferenças divididas vistas em aula
 def newton_divided_differences(x, y):
     # Determina o número de pontos
     n = len(x)
